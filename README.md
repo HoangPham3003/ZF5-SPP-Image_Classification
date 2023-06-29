@@ -18,7 +18,7 @@ So, in this repo, I implemented a very basic, simple ZF5 model using and not usi
 - Caltech101 is used as in the paper. This dataset is able to be downloaded by Pytorch. https://pytorch.org/vision/stable/generated/torchvision.datasets.Caltech101.html
 
 ## ZF5 Model Architecture
-- The model is built restrictly following by two-above paper
+- The model is built restrictly following by two-above papers
 ![model_architecture.png](experiments/model_architecture.png)
 
 ## Hyper-parameters
